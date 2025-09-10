@@ -1,5 +1,6 @@
 # covid19-trends-visualization 
 [View Tableau Dashboard](https://public.tableau.com/app/profile/mansa.chepuri/viz/covid_data_analysis_17574570006320/Dashboard1)
+
 This analysis provides a comprehensive overview of COVID-19 cases, deaths, and vaccination trends globally.
 The year 2021 experienced the highest surge in infections and fatalities, with the United States, India, Brazil, Mexico, and the UK being the most affected countries.
 An interactive dashboard was developed to visualize key metrics, including case counts, death rates, infection percentages, and vaccination progress over time.
